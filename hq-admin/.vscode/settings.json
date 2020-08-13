@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "fortawesome"
+    ],
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+   
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "liveServer.settings.port": 5501,
+    
+    
+}
